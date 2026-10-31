@@ -4,7 +4,7 @@ Hier liegen die Installationsdateien von **Qlaido**, der Windows-App für Beihil
 
 **Download und Anleitung: [qlaido.de](https://qlaido.de)**
 
-- Direkter Download der neuesten Version: [Qlaido-Setup.exe](https://github.com/qlaido/releases/releases/latest/download/Qlaido-Setup.exe)
+- Neueste Version: [Releases → Latest](https://github.com/qlaido/releases/releases/latest) – dort `Qlaido-Setup-<Version>.exe` herunterladen
 - Alle Versionen mit Änderungen: [Releases](https://github.com/qlaido/releases/releases)
 
 ## Hinweise
